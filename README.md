@@ -25,6 +25,8 @@ The class descriptions can be found in the `climbing_package/pgs_climbing` direc
 
 ## Example output
 
+There is a jupyter notebook in ```examples/``` if you want to see it in action
+
 It currently has two basic visual summary methods, one on the crag class summarising the routes at that crag:
 
 ![Crag_summary](crag_summary.png)
