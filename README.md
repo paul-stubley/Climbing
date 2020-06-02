@@ -29,10 +29,10 @@ There is a jupyter notebook in ```examples/``` if you want to see it in action
 
 It currently has two basic visual summary methods, one on the crag class summarising the routes at that crag:
 
-![Crag_summary](crag_summary.png)
+![Crag_summary](examples/crag_summary.png)
 
 and one on the climber class, showing their progress over time: 
 
-![Climber_progress](climber_progress.png)
+![Climber_progress](examples/climber_progress.png)
 
 
