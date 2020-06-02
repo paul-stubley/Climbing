@@ -20,6 +20,8 @@ The classes are currently:
 
 - Climber - A class to hold information about a climber, the routes they have attempted/climbed and when.
 
+The class descriptions can be found in the `climbing_package/pgs_climbing` directory
+
 ## Example output
 
 It currently has two basic visual summary methods, one on the crag class summarising the routes at that crag:
