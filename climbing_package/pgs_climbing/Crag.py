@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-from Constants import *
+from .Constants import *
 
 class Crag():
     '''This class covers *crag* objects, the cliff which houses the routes.

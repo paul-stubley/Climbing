@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pgs-climbing
-Version: 0.1
+Version: 0.1.1
 Summary: Classes to describe rock-climbing
 Home-page: https://github.com/paul-stubley/Climbing
 License: UNKNOWN
@@ -8,9 +8,9 @@ Description: # Climbing
         This package creates a few python classes that describe rock-climbing.  It was created as an exercise in package development.
         
         # Quickstart
-        It is available to install using pip:
+        It is available to install using pip, e.g. for python3 use:
         
-        `pip install pgs_climbing`
+        `python3 -m pip install pgs_climbing`
         
         And can then be used by importing into your python files:
         

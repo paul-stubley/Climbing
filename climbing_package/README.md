@@ -2,9 +2,9 @@
 This package creates a few python classes that describe rock-climbing.  It was created as an exercise in package development.
 
 # Quickstart
-It is available to install using pip:
+It is available to install using pip, e.g. for python3 use:
 
-`pip install pgs_climbing`
+`python3 -m pip install pgs_climbing`
 
 And can then be used by importing into your python files:
 
