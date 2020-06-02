@@ -1,2 +1,2 @@
 # Climbing
- Exercise in creating a few classes to describe climbing
+ This repo will cover a few classes that describe rock-climbing.  Readme WIP
