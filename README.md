@@ -24,10 +24,10 @@ The classes are currently:
 
 It currently has two basic visual summary methods, one on the crag class summarising the routes at that crag:
 
-![Crag_summary](https://github.com/paul-stubley/Climbing/crag_summary.png)
+![Crag_summary](crag_summary.png)
 
 and one on the climber class, showing their progress over time: 
 
-![Climber_progress](https://github.com/paul-stubley/Climbing/climber_progress.png)
+![Climber_progress](climber_progress.png)
 
 
