@@ -22,7 +22,7 @@ The classes are currently:
 
 - Climber - A class to hold information about a climber, the routes they have attempted/climbed and when.
 
-The class descriptions can be found in the `climbing_package/pgs_climbing` directory
+The class descriptions can be found in the `pgs_climbing/` folder
 
 ## Example output
 
