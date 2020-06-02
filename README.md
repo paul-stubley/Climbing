@@ -2,9 +2,9 @@
 This repo covers a few classes that describe rock-climbing.  It was created as an exercise in package development.
 
 ## Quickstart
-It is available to install using pip:
+It is available to install using pip, e.g. for python3 use:
 
-`pip install pgs_climbing`
+`python3 -m pip install pgs_climbing`
 
 [Location on PyPi](https://pypi.org/project/pgs-climbing/)
 
